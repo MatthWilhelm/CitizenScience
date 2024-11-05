@@ -15,7 +15,7 @@
 - [Spotteron](https://www.spotteron.net/de/preise) Entreprise qui s'est spécialisée dans le développement d'outils pour la science citoyenne. Des prix relativement intéressants sont proposés, à voir si cela pourrait faire le job ou pas. Une liste impressionnante de projets et de publications sont disponibles [ici](https://www.spotteron.net/de/information/citizen-science-papers-and-publikationen)
 - [Seed grant](https://www.citizenscience.uzh.ch/en/services/seedgrants.html) is [apparently the only](https://www.schweizforscht.ch/fr/avancer/financement) swiss funding specially dedicated to citizen science.
 - [The citizen science competence center of the university of Zürich](https://www.citizenscience.uzh.ch/en.html) has some resources online.
-- [The Mercator Stiftung Switzerland](https://www.stiftung-mercator.ch/) pourrait éventuellement financer une partie du projet. C'est une piste intéressante. Elle a été crée par la famille [Schmidt-Ruthenbeck](https://de.wikipedia.org/wiki/Schmidt-Ruthenbeck). 
+-[Capt'Air](https://wp.unil.ch/captographies/captair/) Projet de Citizen Science impliquant notamment la ville de Lausanne. 
 
 ### Points intéressants
 
