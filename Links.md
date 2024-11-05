@@ -9,7 +9,13 @@
 - [BioAgora](https://bioagora.eu/): 
 - [Nature Marathon](https://elurikkus.ee/en/lvm) Marathon estonien de recherche et monitoring de la biodiversité. Utilise une plateforme open-source pour le stockage de données, qui sont géolocalisées. Voir les différentes pages, avec des données qui dépassent largement les frontières de l'Estonie [https://elurikkus.ee/app/regions/kihelkond/K%C3%B5pu%20kihelkond](https://elurikkus.ee/app/regions/kihelkond/K%C3%B5pu%20kihelkond) [https://elurikkus.ee/app/occurrences/search?dataset=plutof-main](https://elurikkus.ee/app/occurrences/search?dataset=plutof-main). Les données sont stockées avec une plateforme open-source qui permet un stockage de la phylogénie [plotoF](https://plutof.ut.ee/). Intéressant, à considérer. Cela s'inscrit dans une démarche apparemment très populaire appelée [_bioblitz_](https://en.wikipedia.org/wiki/BioBlitz). 
 - [PlutoF](https://plutof.ut.ee/go) Il s'agit d'une application qui permet _grosso modo_ de faire exactement ce que nous souhaitons faire, à savoir gérer une observation (espèce avec l'arbre phylogénique, la localisation et l'instant de mesure/observation). Pas clair si l'application mobile elle-même est open-source ou pas. API documentée via [apiary](https://plutof.docs.apiary.io/#introduction/pagination), semble assez bien faite. Fait aussi partie du consortium [unite](https://unite.ut.ee/) (si le block du BIT nous laisse le voir). Pour les contacter, [cette page](https://plutof.ut.ee/contact) est utile. 
-
+- [We count](https://we-count.net/page/legacy). Development of a device to monitor traffic that has been deployed by citizen across some cities in EU. 
+-[EU biodiversity platform](https://biodiversity.europa.eu/)
+- [Isala](https://isala.be/en/). Maybe interesting to have an idea of how getting data from samples collected by citizen and that must be analyzed in a lab. Some details are available in the section _methods_ of this [paper](https://www.nature.com/articles/s41564-023-01500-0#Sec8).  
+- [Spotteron](https://www.spotteron.net/de/preise) Entreprise qui s'est spécialisée dans le développement d'outils pour la science citoyenne. Des prix relativement intéressants sont proposés, à voir si cela pourrait faire le job ou pas. Une liste impressionnante de projets et de publications sont disponibles [ici](https://www.spotteron.net/de/information/citizen-science-papers-and-publikationen)
+- [Seed grant](https://www.citizenscience.uzh.ch/en/services/seedgrants.html) is [apparently the only](https://www.schweizforscht.ch/fr/avancer/financement) swiss funding specially dedicated to citizen science.
+- [The citizen science competence center of the university of Zürich](https://www.citizenscience.uzh.ch/en.html) has some resources online.
+- [The Mercator Stiftung Switzerland](https://www.stiftung-mercator.ch/) pourrait éventuellement financer une partie du projet. C'est une piste intéressante. Elle a été crée par la famille [Schmidt-Ruthenbeck](https://de.wikipedia.org/wiki/Schmidt-Ruthenbeck). 
 
 ### Points intéressants
 
@@ -25,9 +31,9 @@ Inclure des partenaires pour la réalisation du projet de recherche, notamment l
 
 ### Notes Kieran
 
-Voir si on pourrait faire une étude pilote-pilote avec les moyens du bord (et voir ce que l'on parvient à obtenir) en vue de co-créer une app' en un deuxième 
-Initiative cantonale pour la biodiversité, projet conjoint Agroculture et instruction publique pour lancer le premier round d'échantillonnage. 
-Fournir un kit pédagogique: boîte de Petri
+- Voir si on pourrait faire une étude pilote-pilote avec les moyens du bord (et voir ce que l'on parvient à obtenir) en vue de co-créer une app' en un deuxième temps en co-création. 
+- Créer une initiative cantonale pour la biodiversité, projet conjoint département de l'agriculture et instruction publique pour lancer le premier round d'échantillonnage. 
+- Fournir un kit pédagogique: boîte de Petri, développement de champignons, observations de propriétés etc.
 
 ### Features of a mobile app'
 
